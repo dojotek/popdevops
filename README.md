@@ -6,11 +6,17 @@
 
 ## Description
 
-[Dojotek](https://dojotek.id) PopDevOps is a collection of valuable IaC templates (CloudFormation, Terraform, Pulumi, Ansible Playbook).
+[Dojotek](https://dojotek.id) PopDevOps is a collection of valuable IaC templates (CloudFormation, Terraform, Pulumi, Ansible Playbook). 
+
+All of the templates are free to use. But if your company need professional support, you can here people on project basis, ie. [me in Upwork](https://www.upwork.com/freelancers/~016821f235801d8aee?s=1110580753140797440).
 
 ## Support
 
-Dojotek™ PopDevOps is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please contact us by e-mail.
+Dojotek™ PopDevOps is an MIT-licensed open source project. If you'd like to join them, please contact us by e-mail.
+
+## Disclaimer
+
+All of templates are free to use. All code provided as is. We do not provide any warranty. Please use by careful.
 
 ## Stay in touch
 

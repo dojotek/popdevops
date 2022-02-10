@@ -78,7 +78,11 @@ variable "purpose" {
 # Variables - specific for this Android CI/CD pipeline
 #
 
-variable "github_repository_url" {
+variable "github_organization" {
+  type = string
+}
+
+variable "github_repository" {
   type = string
 }
 

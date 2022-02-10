@@ -25,11 +25,11 @@ resource "aws_codebuild_project" "codebuild" {
 
   name = "${var.infra_name}-codebuild"
 
-  service_role = aws_iam_role.service_role_codebuild.arn
+  service_role = aws_iam_role.codebuild_role.arn
 
   source {
     type = "GITHUB"
-    location = var.github_repository_url
+    location = "https://github.com/{$var.github_organization}/{$var.github_repository}.git"
     git_clone_depth = var.git_clone_depth
 
     git_submodules_config {

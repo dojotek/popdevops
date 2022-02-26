@@ -1,4 +1,10 @@
-# CI/CD Pipeline for Android Studio Project by Dojotek PopDevOps
+# CI/CD Pipeline for Spring Boot Java by Dojotek PopDevOps
+
+First step is to initialize Terraform:
+
+```
+make plan
+```
 
 To review plan by Terraform:
 
